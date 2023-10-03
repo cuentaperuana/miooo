@@ -1,1 +1,2 @@
-mkdir nuevacarpetamia
+@echo off
+mkdir guarapo.txt
